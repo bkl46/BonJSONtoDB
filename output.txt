@@ -1,0 +1,3554 @@
+====oatmeal====
+Tags: Vegan, Farm to Fork
+kcal: 130
+Calories: 130
+Serving Size: 9.9oz
+Total Fat: 2g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 10mg
+Total Carbohydrate: 23g
+Dietary Fiber: 3g
+Sugars: 0g
+Protein: 4g
+station: <strong>@soup</strong>
+====creamy grits====
+Tags: Vegetarian, Made without Gluten-Containing Ingredients, Farm to Fork
+kcal: 390
+Calories: 390
+Serving Size: 8.0oz
+Total Fat: 24g
+Saturated Fat: 14g
+Trans Fat: 1g
+Cholesterol: 65mg
+Sodium: 420mg
+Total Carbohydrate: 39g
+Dietary Fiber: 2g
+Sugars: 5g
+Protein: 7g
+station: <strong>@soup</strong>
+====cage-free scrambled eggs====
+====turkey breakfast sausage links====
+Calories: 70
+Serving Size: 2.0oz
+Saturated Fat: 1.5gg
+Trans Fat: 0gg
+Cholesterol: 30mgmg
+Sodium: 280mgmg
+Total Carbohydrate: 0gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 7gg
+Total Fat: 5gg
+====breakfast potatoes yukon====
+Calories: 210
+Serving Size: 3.7oz
+Saturated Fat: 1gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 270mgmg
+Total Carbohydrate: 22gg
+Dietary Fiber: 3gg
+Sugars: 2gg
+Protein: 2gg
+Total Fat: 13gg
+Tags: Made without Gluten-Containing Ingredients, Farm to Fork
+kcal: 460
+Calories: 460
+Serving Size: 10.2oz
+Total Fat: 31g
+Saturated Fat: 7g
+Trans Fat: 0g
+Cholesterol: 495mg
+Sodium: 720mg
+Total Carbohydrate: 23g
+Dietary Fiber: 3g
+Sugars: 2g
+Protein: 25g
+station: <strong>@From The Home</strong>
+====vanilla French toast====
+Tags: Vegetarian, Farm to Fork, Humane
+kcal: 270
+Calories: 270
+Serving Size: 4.8oz
+Total Fat: 6g
+Saturated Fat: 2g
+Trans Fat: 0g
+Cholesterol: 65mg
+Sodium: 450mg
+Total Carbohydrate: 44g
+Dietary Fiber: 2g
+Sugars: 7g
+Protein: 11g
+station: <strong>@From The Home</strong>
+====made-to-order omelette bar====
+Tags: Made without Gluten-Containing Ingredients, Farm to Fork, Humane
+kcal: 
+station: <strong>@From The Fire</strong>
+====tofu breakfast scramble====
+====apple cranberry quinoa====
+Calories: 210
+Serving Size: 5.6oz
+Saturated Fat: 0.5gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 5mgmg
+Total Carbohydrate: 35gg
+Dietary Fiber: 4gg
+Sugars: 8gg
+Protein: 6gg
+Total Fat: 6gg
+====Beyond breakfast sausage====
+Calories: 110
+Serving Size: 1.5oz
+Saturated Fat: 3gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 230mgmg
+Total Carbohydrate: 3gg
+Dietary Fiber: 1gg
+Sugars: 0gg
+Protein: 7gg
+Total Fat: 7gg
+Tags: Vegan, Made without Gluten-Containing Ingredients, Farm to Fork
+kcal: 370
+Calories: 370
+Serving Size: 9.3oz
+Total Fat: 17g
+Saturated Fat: 4g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 760mg
+Total Carbohydrate: 40g
+Dietary Fiber: 6g
+Sugars: 9g
+Protein: 18g
+station: <strong>@From The Field</strong>
+====Bran Flakes====
+Tags: Vegan
+kcal: 200
+Calories: 200
+Serving Size: 1.0oz
+Total Fat: 1.5g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 330mg
+Total Carbohydrate: 50g
+Dietary Fiber: 11g
+Sugars: 11g
+Protein: 6g
+station: <strong>@breakfast</strong>
+====Cheerios====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 100
+Calories: 100
+Serving Size: 1.0oz
+Total Fat: 2g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 135mg
+Total Carbohydrate: 20g
+Dietary Fiber: 3g
+Sugars: 1g
+Protein: 3g
+station: <strong>@breakfast</strong>
+====shredded wheat====
+Tags: Vegan
+kcal: 180
+Calories: 180
+Serving Size: 1.0oz
+Total Fat: 1g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 0mg
+Total Carbohydrate: 41g
+Dietary Fiber: 6g
+Sugars: 0g
+Protein: 6g
+station: <strong>@breakfast</strong>
+====cereal Honey Nut Cheerios====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 100
+Calories: 100
+Serving Size: 1.0oz
+Total Fat: 1.5g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 160mg
+Total Carbohydrate: 22g
+Dietary Fiber: 2g
+Sugars: 9g
+Protein: 2g
+station: <strong>@breakfast</strong>
+====Cinnamon Toast Crunch====
+Tags: Vegan
+kcal: 160
+Calories: 160
+Serving Size: 1.0oz
+Total Fat: 4g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 230mg
+Total Carbohydrate: 31g
+Dietary Fiber: 3g
+Sugars: 12g
+Protein: 2g
+station: <strong>@breakfast</strong>
+====Corn Chex====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 110
+Calories: 110
+Serving Size: 1.0oz
+Total Fat: 0.5g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 210mg
+Total Carbohydrate: 25g
+Dietary Fiber: 1g
+Sugars: 3g
+Protein: 2g
+station: <strong>@breakfast</strong>
+====Corn Pops====
+Tags: Vegan
+kcal: 110
+Calories: 110
+Serving Size: 1.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 105mg
+Total Carbohydrate: 27g
+Dietary Fiber: 2g
+Sugars: 9g
+Protein: 1g
+station: <strong>@breakfast</strong>
+====Cornflakes====
+Tags: Vegan
+kcal: 110
+Calories: 110
+Serving Size: 1.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 230mg
+Total Carbohydrate: 27g
+Dietary Fiber: 1g
+Sugars: 3g
+Protein: 2g
+station: <strong>@breakfast</strong>
+====apple jacks====
+Tags: Vegan
+kcal: 100
+Calories: 100
+Serving Size: 1.0oz
+Total Fat: 1g
+Saturated Fat: 0.5g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 130mg
+Total Carbohydrate: 24g
+Dietary Fiber: 3g
+Sugars: 12g
+Protein: 1g
+station: <strong>@breakfast</strong>
+====fruit loops====
+Tags: Vegan
+kcal: 100
+Calories: 100
+Serving Size: 1.0oz
+Total Fat: 1g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 130mg
+Total Carbohydrate: 24g
+Dietary Fiber: 3g
+Sugars: 12g
+Protein: 1g
+station: <strong>@breakfast</strong>
+====golden grahams====
+Tags: Vegan
+kcal: 140
+Calories: 140
+Serving Size: 1.0oz
+Total Fat: 1g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 290mg
+Total Carbohydrate: 32g
+Dietary Fiber: 2g
+Sugars: 13g
+Protein: 2g
+station: <strong>@breakfast</strong>
+====buttermilk waffle====
+Tags: Vegetarian
+kcal: 300
+Calories: 300
+Serving Size: 6.0oz
+Total Fat: 3.5g
+Saturated Fat: 0.5g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 930mg
+Total Carbohydrate: 60g
+Dietary Fiber: 1g
+Sugars: 6g
+Protein: 6g
+station: <strong>@breakfast</strong>
+====lipton unsweetened iced tea====
+kcal: 0
+station: <strong>@beverages</strong>
+====water====
+kcal: 0
+station: <strong>@beverages</strong>
+====carbonated water====
+kcal: 0
+station: <strong>@beverages</strong>
+====dr pepper====
+kcal: 150
+Calories: 150
+Serving Size: 12.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 35mg
+Total Carbohydrate: 38g
+Dietary Fiber: 0g
+Sugars: 0g
+Protein: 0g
+station: <strong>@beverages</strong>
+====gatorade fruit punch====
+kcal: 90
+Calories: 90
+Serving Size: 12.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 160mg
+Total Carbohydrate: 22g
+Dietary Fiber: 0g
+Sugars: 21g
+Protein: 0g
+station: <strong>@beverages</strong>
+====sweetened iced tea====
+kcal: 110
+Calories: 110
+Serving Size: 12.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 45mg
+Total Carbohydrate: 29g
+Dietary Fiber: 0g
+Sugars: 29g
+Protein: 0g
+station: <strong>@beverages</strong>
+====root beer====
+kcal: 150
+Calories: 150
+Serving Size: 12.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 45mg
+Total Carbohydrate: 39g
+Dietary Fiber: 0g
+Sugars: 39g
+Protein: 0g
+station: <strong>@beverages</strong>
+====gatorade orange====
+kcal: 90
+Calories: 90
+Serving Size: 12.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 180mg
+Total Carbohydrate: 24g
+Dietary Fiber: 0g
+Sugars: 23g
+Protein: 0g
+station: <strong>@beverages</strong>
+====pepsi====
+kcal: 150
+Calories: 150
+Serving Size: 12.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 30mg
+Total Carbohydrate: 41g
+Dietary Fiber: 0g
+Sugars: 41g
+Protein: 0g
+station: <strong>@beverages</strong>
+====sierra mist====
+kcal: 150
+Calories: 150
+Serving Size: 12.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 35mg
+Total Carbohydrate: 40g
+Dietary Fiber: 0g
+Sugars: 40g
+Protein: 0g
+station: <strong>@beverages</strong>
+====tropicana lemonade pink====
+kcal: 150
+Calories: 150
+Serving Size: 12.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 150mg
+Total Carbohydrate: 40g
+Dietary Fiber: 0g
+Sugars: 40g
+Protein: 0g
+station: <strong>@beverages</strong>
+====Schweppes ginger ale====
+kcal: 120
+Calories: 120
+Serving Size: 12.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 25mg
+Total Carbohydrate: 32g
+Dietary Fiber: 0g
+Sugars: 33g
+Protein: 0g
+station: <strong>@beverages</strong>
+====diet mountain dew====
+kcal: 0
+station: <strong>@beverages</strong>
+====diet pepsi====
+kcal: 0
+station: <strong>@beverages</strong>
+====brisk raspberry iced tea====
+kcal: 70
+Calories: 70
+Serving Size: 12.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 50mg
+Total Carbohydrate: 18g
+Dietary Fiber: 0g
+Sugars: 18g
+Protein: 0g
+station: <strong>@beverages</strong>
+====orange juice====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 190
+Calories: 190
+Serving Size: 12.0oz
+Total Fat: 0.5g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 15mg
+Total Carbohydrate: 44g
+Dietary Fiber: 1g
+Sugars: 35g
+Protein: 3g
+station: <strong>@beverages</strong>
+====apple juice====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 170
+Calories: 170
+Serving Size: 12.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 15mg
+Total Carbohydrate: 42g
+Dietary Fiber: < 1g
+Sugars: 36g
+Protein: 0g
+station: <strong>@beverages</strong>
+====cranberry juice====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 220
+Calories: 220
+Serving Size: 12.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 10mg
+Total Carbohydrate: 54g
+Dietary Fiber: 0g
+Sugars: 47g
+Protein: 0g
+station: <strong>@beverages</strong>
+====milk====
+Tags: Vegetarian, Made without Gluten-Containing Ingredients, Farm to Fork
+kcal: 240
+Calories: 240
+Serving Size: 12.0oz
+Total Fat: 13g
+Saturated Fat: 7g
+Trans Fat: 0g
+Cholesterol: 40mg
+Sodium: 170mg
+Total Carbohydrate: 19g
+Dietary Fiber: 0g
+Sugars: 20g
+Protein: 13g
+station: <strong>@beverages</strong>
+====chocolate milk====
+Tags: Vegetarian, Made without Gluten-Containing Ingredients, Farm to Fork
+kcal: 260
+Calories: 260
+Serving Size: 12.0oz
+Total Fat: 4g
+Saturated Fat: 2.5g
+Trans Fat: 0g
+Cholesterol: 15mg
+Sodium: 280mg
+Total Carbohydrate: 42g
+Dietary Fiber: 2g
+Sugars: 42g
+Protein: 12g
+station: <strong>@beverages</strong>
+====coffee====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 0
+Calories: 0
+Serving Size: 8.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 0mg
+Total Carbohydrate: 0g
+Dietary Fiber: 0g
+Sugars: 0g
+Protein: 0g
+station: <strong>@beverages</strong>
+====decaf coffee====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 0
+Calories: 0
+Serving Size: 8.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 0mg
+Total Carbohydrate: 0g
+Dietary Fiber: 0g
+Sugars: 0g
+Protein: 0g
+station: <strong>@beverages</strong>
+====coconut milk====
+Tags: Vegan
+kcal: 100
+Calories: 100
+Serving Size: 2.0oz
+Total Fat: 11g
+Saturated Fat: 9g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 5mg
+Total Carbohydrate: 1g
+Dietary Fiber: 0g
+Sugars: 0g
+Protein: 1g
+station: <strong>@beverages</strong>
+====taco bar mains====
+====crumbled chorizo sausage and potato====
+Calories: 220
+Serving Size: 4.0oz
+Saturated Fat: 4gg
+Trans Fat: 0gg
+Cholesterol: 40mgmg
+Sodium: 250mgmg
+Total Carbohydrate: 14gg
+Dietary Fiber: 1gg
+Sugars: 1gg
+Protein: 13gg
+Total Fat: 13gg
+====roasted cauliflower and chickpea ====
+Calories: 110
+Serving Size: 3.4oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 440mgmg
+Total Carbohydrate: 17gg
+Dietary Fiber: 5gg
+Sugars: 3gg
+Protein: 6gg
+Total Fat: 3gg
+Tags: Made without Gluten-Containing Ingredients, Farm to Fork
+kcal: 
+Calories: 340
+Serving Size: 7.4oz
+Total Fat: 16g
+Saturated Fat: 4g
+Trans Fat: 0g
+Cholesterol: 40mg
+Sodium: 700mg
+Total Carbohydrate: 31g
+Dietary Fiber: 6g
+Sugars: 4g
+Protein: 18g
+station: <strong>@From The Cazuela</strong>
+====taco bar sides====
+====seasoned black beans ====
+Calories: 150
+Serving Size: 3.5oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 180mgmg
+Total Carbohydrate: 27gg
+Dietary Fiber: 7gg
+Sugars: less than 1gg
+Protein: 9gg
+Total Fat: 0.5gg
+====cilantro lime brown rice====
+Calories: 150
+Serving Size: 4.8oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 5mgmg
+Total Carbohydrate: 32gg
+Dietary Fiber: 2gg
+Sugars: 0gg
+Protein: 3gg
+Total Fat: 1.5gg
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 
+Calories: 300
+Serving Size: 8.4oz
+Total Fat: 2g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 190mg
+Total Carbohydrate: 59g
+Dietary Fiber: 8g
+Sugars: 1g
+Protein: 13g
+station: <strong>@From The Cazuela</strong>
+====taco bar toppings====
+====avocado crema====
+Calories: 35
+Serving Size: 1.0oz
+Saturated Fat: 1gg
+Trans Fat: 0gg
+Cholesterol: less than 5mgmg
+Sodium: 10mgmg
+Total Carbohydrate: 2gg
+Dietary Fiber: less than 1gg
+Sugars: less than 1gg
+Protein: less than 1gg
+Total Fat: 3gg
+====flour tortillas====
+Calories: 190
+Serving Size: 2.0oz
+Saturated Fat: 2gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 360mgmg
+Total Carbohydrate: 30gg
+Dietary Fiber: 2gg
+Sugars: 0gg
+Protein: 4gg
+Total Fat: 5gg
+====corn tortilla====
+Calories: 120
+Serving Size: 2.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 25mgmg
+Total Carbohydrate: 25gg
+Dietary Fiber: 4gg
+Sugars: less than 1gg
+Protein: 3gg
+Total Fat: 1.5gg
+====pico de gallo====
+Calories: 5
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 45mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: less than 1gg
+Protein: 0gg
+Total Fat: 0gg
+====salsa verde ====
+Calories: 15
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 30mgmg
+Total Carbohydrate: 2gg
+Dietary Fiber: less than 1gg
+Sugars: 1gg
+Protein: 0gg
+Total Fat: 0.5gg
+====cabbage and cilantro slaw====
+Calories: 15
+Serving Size: 2.3oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 140mgmg
+Total Carbohydrate: 4gg
+Dietary Fiber: 1gg
+Sugars: 2gg
+Protein: less than 1gg
+Total Fat: 0gg
+====salsa rojo ====
+Calories: 5
+Serving Size: 1.1oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 70mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: less than 1gg
+Protein: 0gg
+Total Fat: 0gg
+====lime crema====
+Calories: 90
+Serving Size: 1.9oz
+Saturated Fat: 4.5gg
+Trans Fat: 0.5gg
+Cholesterol: 25mgmg
+Sodium: 125mgmg
+Total Carbohydrate: 3gg
+Dietary Fiber: 0gg
+Sugars: 2gg
+Protein: 1gg
+Total Fat: 8gg
+Tags: Vegetarian
+kcal: 
+Calories: 460
+Serving Size: 12.4oz
+Total Fat: 19g
+Saturated Fat: 8g
+Trans Fat: 1g
+Cholesterol: 30mg
+Sodium: 780mg
+Total Carbohydrate: 66g
+Dietary Fiber: 9g
+Sugars: 7g
+Protein: 11g
+station: <strong>@From The Cazuela</strong>
+====pepperoni pizza====
+Tags: Farm to Fork
+kcal: 170
+Calories: 170
+Serving Size: 2.1oz
+Total Fat: 9g
+Saturated Fat: 4.5g
+Trans Fat: 0g
+Cholesterol: 20mg
+Sodium: 350mg
+Total Carbohydrate: 14g
+Dietary Fiber: < 1g
+Sugars: 1g
+Protein: 8g
+station: <strong>@From The Hearth</strong>
+====cheese pizza====
+Tags: Vegetarian, Farm to Fork
+kcal: 140
+Calories: 140
+Serving Size: 2.0oz
+Total Fat: 4.5g
+Saturated Fat: 2.5g
+Trans Fat: 0g
+Cholesterol: 15mg
+Sodium: 240mg
+Total Carbohydrate: 17g
+Dietary Fiber: < 1g
+Sugars: 1g
+Protein: 6g
+station: <strong>@From The Hearth</strong>
+====vegetable pizza====
+Tags: Vegetarian, Farm to Fork
+kcal: 170
+Calories: 170
+Serving Size: 3.9oz
+Total Fat: 6g
+Saturated Fat: 3g
+Trans Fat: 0g
+Cholesterol: 15mg
+Sodium: 290mg
+Total Carbohydrate: 23g
+Dietary Fiber: 1g
+Sugars: 2g
+Protein: 8g
+station: <strong>@From The Hearth</strong>
+====onion and fresh rosemary pizza====
+Tags: Vegetarian
+kcal: 130
+Calories: 130
+Serving Size: 2.1oz
+Total Fat: 4.5g
+Saturated Fat: 2g
+Trans Fat: 0g
+Cholesterol: 10mg
+Sodium: 240mg
+Total Carbohydrate: 15g
+Dietary Fiber: < 1g
+Sugars: 1g
+Protein: 6g
+station: <strong>@From The Hearth</strong>
+====hearty vegetable beef soup====
+Tags: Made without Gluten-Containing Ingredients
+kcal: 200
+Calories: 200
+Serving Size: 8.5oz
+Total Fat: 8g
+Saturated Fat: 1.5g
+Trans Fat: 0g
+Cholesterol: 40mg
+Sodium: 530mg
+Total Carbohydrate: 14g
+Dietary Fiber: 3g
+Sugars: 6g
+Protein: 19g
+station: <strong>@soup</strong>
+====sausage and chicken soup====
+Tags: Made without Gluten-Containing Ingredients
+kcal: 170
+Calories: 170
+Serving Size: 8.3oz
+Total Fat: 10g
+Saturated Fat: 3g
+Trans Fat: 0g
+Cholesterol: 50mg
+Sodium: 500mg
+Total Carbohydrate: 7g
+Dietary Fiber: 3g
+Sugars: 3g
+Protein: 12g
+station: <strong>@soup</strong>
+====pork burgundy====
+====sautéed red cabbage====
+Calories: 50
+Serving Size: 3.1oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 240mgmg
+Total Carbohydrate: 7gg
+Dietary Fiber: 2gg
+Sugars: 3gg
+Protein: 1gg
+Total Fat: 2gg
+====white beans and kale====
+Calories: 90
+Serving Size: 6.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 170mgmg
+Total Carbohydrate: 15gg
+Dietary Fiber: 6gg
+Sugars: 3gg
+Protein: 6gg
+Total Fat: 1gg
+Tags: Made without Gluten-Containing Ingredients
+kcal: 500
+Calories: 500
+Serving Size: 19.5oz
+Total Fat: 22g
+Saturated Fat: 6g
+Trans Fat: 0g
+Cholesterol: 95mg
+Sodium: 1010mg
+Total Carbohydrate: 29g
+Dietary Fiber: 9g
+Sugars: 9g
+Protein: 38g
+station: <strong>@From The Home</strong>
+====cage-free eggs any style, made-to-order====
+Tags: Vegetarian, Made without Gluten-Containing Ingredients, Humane
+kcal: 
+station: <strong>@From The Fire</strong>
+====grill options====
+====turkey burger====
+Calories: 260
+Serving Size: 4.0oz
+Saturated Fat: 4.5gg
+Trans Fat: 0gg
+Cholesterol: 95mgmg
+Sodium: 350mgmg
+Total Carbohydrate: 3gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 20gg
+Total Fat: 18gg
+====grilled chicken====
+Calories: 160
+Serving Size: 3.4oz
+Saturated Fat: 1.5gg
+Trans Fat: 0gg
+Cholesterol: 95mgmg
+Sodium: 230mgmg
+Total Carbohydrate: 0gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 26gg
+Total Fat: 6gg
+====beef burger====
+Calories: 310
+Serving Size: 4.0oz
+Saturated Fat: 8gg
+Trans Fat: 1.5gg
+Cholesterol: 100mgmg
+Sodium: 85mgmg
+Total Carbohydrate: 0gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 29gg
+Total Fat: 20gg
+====all-beef hotdog ====
+Calories: 180
+Serving Size: 2.0oz
+Saturated Fat: 6gg
+Trans Fat: 2gg
+Cholesterol: 35mgmg
+Sodium: 490mgmg
+Total Carbohydrate: 2gg
+Dietary Fiber: 0gg
+Sugars: less than 1gg
+Protein: 7gg
+Total Fat: 16gg
+====cheddar cheese====
+Calories: 110
+Serving Size: 1.0oz
+Saturated Fat: 5gg
+Trans Fat: 0gg
+Cholesterol: 30mgmg
+Sodium: 190mgmg
+Total Carbohydrate: less than 1gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 6gg
+Total Fat: 9gg
+====lettuce====
+Calories: 0
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: less than 1gg
+Dietary Fiber: less than 1gg
+Sugars: 0gg
+Protein: 0gg
+Total Fat: 0gg
+====tomatoes====
+Calories: 5
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: less than 1gg
+Protein: 0gg
+Total Fat: 0gg
+====onion====
+Calories: 0
+Serving Size: 0.2oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: less than 1gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 0gg
+Total Fat: 0gg
+====pickle====
+Calories: 0
+Serving Size: 0.1oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 20mgmg
+Total Carbohydrate: 0gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 0gg
+Total Fat: 0gg
+====wheat hamburger bun====
+Calories: 160
+Serving Size: 2.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 280mgmg
+Total Carbohydrate: 28gg
+Dietary Fiber: 1gg
+Sugars: 4gg
+Protein: 6gg
+Total Fat: 2gg
+====wheat hot dog bun====
+Calories: 180
+Serving Size: 2.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 320mgmg
+Total Carbohydrate: 32gg
+Dietary Fiber: 4gg
+Sugars: 4gg
+Protein: 7gg
+Total Fat: 3gg
+====hand-cut French fries====
+Calories: 110
+Serving Size: 4.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 135mgmg
+Total Carbohydrate: 24gg
+Dietary Fiber: 2gg
+Sugars: 2gg
+Protein: 2gg
+Total Fat: 0gg
+====Swiss cheese====
+Calories: 110
+Serving Size: 1.0oz
+Saturated Fat: 5gg
+Trans Fat: 0.5gg
+Cholesterol: 25mgmg
+Sodium: 55mgmg
+Total Carbohydrate: 0gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 8gg
+Total Fat: 9gg
+====pepper jack cheese====
+Calories: 110
+Serving Size: 1.0oz
+Saturated Fat: 5gg
+Trans Fat: 0gg
+Cholesterol: 25mgmg
+Sodium: 170mgmg
+Total Carbohydrate: 0gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 7gg
+Total Fat: 9gg
+====American cheese====
+Calories: 100
+Serving Size: 1.0oz
+Saturated Fat: 5gg
+Trans Fat: 0.5gg
+Cholesterol: 30mgmg
+Sodium: 470mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: less than 1gg
+Protein: 5gg
+Total Fat: 9gg
+Tags: Farm to Fork
+kcal: 
+Calories: 1790
+Serving Size: 27.8oz
+Total Fat: 101g
+Saturated Fat: 42g
+Trans Fat: 5g
+Cholesterol: 430mg
+Sodium: 2790mg
+Total Carbohydrate: 95g
+Dietary Fiber: 7g
+Sugars: 13g
+Protein: 124g
+station: <strong>@From The Fire</strong>
+====barbecue bacon cheeseburger====
+kcal: 630
+Calories: 630
+Serving Size: 9.1oz
+Total Fat: 36g
+Saturated Fat: 14g
+Trans Fat: 2g
+Cholesterol: 135mg
+Sodium: 840mg
+Total Carbohydrate: 33g
+Dietary Fiber: 3g
+Sugars: 9g
+Protein: 44g
+station: <strong>@From The Fire</strong>
+====kung pao tamari chicken stir fry====
+Tags: Made without Gluten-Containing Ingredients
+kcal: 230
+Calories: 230
+Serving Size: 8.4oz
+Total Fat: 7g
+Saturated Fat: 1.5g
+Trans Fat: 0g
+Cholesterol: 85mg
+Sodium: 1060mg
+Total Carbohydrate: 17g
+Dietary Fiber: 2g
+Sugars: 9g
+Protein: 27g
+station: <strong>@From The East</strong>
+====kung pao tamari tofu stir fry====
+Tags: Vegan, Made without Gluten-Containing Ingredients, Farm to Fork
+kcal: 230
+Calories: 230
+Serving Size: 8.4oz
+Total Fat: 12g
+Saturated Fat: 1.5g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 930mg
+Total Carbohydrate: 19g
+Dietary Fiber: 4g
+Sugars: 9g
+Protein: 17g
+station: <strong>@From The East</strong>
+====lo mein egg noodles====
+Tags: Vegetarian
+kcal: 190
+Calories: 190
+Serving Size: 4.0oz
+Total Fat: 3g
+Saturated Fat: 0.5g
+Trans Fat: 0g
+Cholesterol: 40mg
+Sodium: 10mg
+Total Carbohydrate: 34g
+Dietary Fiber: 2g
+Sugars: < 1g
+Protein: 7g
+station: <strong>@From The East</strong>
+====brown rice====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 130
+Calories: 130
+Serving Size: 4.0oz
+Total Fat: 1g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 0mg
+Total Carbohydrate: 27g
+Dietary Fiber: 1g
+Sugars: 0g
+Protein: 3g
+station: <strong>@From The East</strong>
+====stir fry bowl====
+====ginger-lime chicken====
+Calories: 170
+Serving Size: 3.0oz
+Saturated Fat: 2gg
+Trans Fat: 0gg
+Cholesterol: 100mgmg
+Sodium: 230mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 19gg
+Total Fat: 9gg
+====bell pepper====
+Calories: 5
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: less than 1gg
+Protein: 0gg
+Total Fat: 0gg
+====onion====
+Calories: 5
+Serving Size: 0.5oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: less than 1gg
+Protein: 0gg
+Total Fat: 0gg
+====bamboo shoot====
+Calories: 5
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: less than 1gg
+Dietary Fiber: 0gg
+Sugars: less than 1gg
+Protein: 0gg
+Total Fat: 0gg
+====baby corn====
+Calories: 5
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 70mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 0gg
+Total Fat: 0gg
+====bok choy====
+Calories: 0
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 20mgmg
+Total Carbohydrate: less than 1gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 0gg
+Total Fat: 0gg
+====broccoli====
+Calories: 10
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 10mgmg
+Total Carbohydrate: 2gg
+Dietary Fiber: less than 1gg
+Sugars: 0gg
+Protein: less than 1gg
+Total Fat: 0gg
+====mushroom====
+Calories: 5
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: less than 1gg
+Total Fat: 0gg
+====szechuan-style hot chili oil====
+Calories: 210
+Serving Size: 1.0oz
+Saturated Fat: 1.5gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 80mgmg
+Total Carbohydrate: 2gg
+Dietary Fiber: less than 1gg
+Sugars: 0gg
+Protein: 0gg
+Total Fat: 23gg
+====brown rice ====
+Calories: 130
+Serving Size: 4.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: 27gg
+Dietary Fiber: 1gg
+Sugars: 0gg
+Protein: 3gg
+Total Fat: 1gg
+====rice noodle====
+Calories: 90
+Serving Size: 4.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 5mgmg
+Total Carbohydrate: 21gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 0gg
+Total Fat: 0.5gg
+====mung beans ====
+Calories: 20
+Serving Size: 2.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: 4gg
+Dietary Fiber: less than 1gg
+Sugars: 0gg
+Protein: 1gg
+Total Fat: 0gg
+====sweet chili sauce====
+Calories: 80
+Serving Size: 2.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 370mgmg
+Total Carbohydrate: 16gg
+Dietary Fiber: 0gg
+Sugars: 15gg
+Protein: 0gg
+Total Fat: 0gg
+====spicy orange-ginger sauce====
+Calories: 50
+Serving Size: 2.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 270mgmg
+Total Carbohydrate: 12gg
+Dietary Fiber: 0gg
+Sugars: 8gg
+Protein: 0gg
+Total Fat: 0gg
+====pickled daikon ====
+Calories: 10
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 380mgmg
+Total Carbohydrate: 3gg
+Dietary Fiber: 0gg
+Sugars: 2gg
+Protein: 0gg
+Total Fat: 0gg
+Tags: Made without Gluten-Containing Ingredients, Halal
+kcal: 
+Calories: 800
+Serving Size: 25.5oz
+Total Fat: 34g
+Saturated Fat: 4g
+Trans Fat: 0g
+Cholesterol: 100mg
+Sodium: 1450mg
+Total Carbohydrate: 95g
+Dietary Fiber: 7g
+Sugars: 30g
+Protein: 27g
+station: <strong>@SimplyOasis</strong>
+====made without the top-9 allergens plus gluten-containing ingredients====
+kcal: 
+station: <strong>@SimplyOasis</strong>
+====smoky tempeh with peppers and onions====
+====braised cabbage and sweet potatoes ====
+Calories: 100
+Serving Size: 5.6oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 150mgmg
+Total Carbohydrate: 16gg
+Dietary Fiber: 4gg
+Sugars: 6gg
+Protein: 2gg
+Total Fat: 3gg
+====honey glazed Brussels sprouts====
+Calories: 150
+Serving Size: 5.4oz
+Saturated Fat: 1.5gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 440mgmg
+Total Carbohydrate: 10gg
+Dietary Fiber: 4gg
+Sugars: 2gg
+Protein: 4gg
+Total Fat: 11gg
+Tags: Vegan, Made without Gluten-Containing Ingredients, In Balance, Farm to Fork
+kcal: 420
+Calories: 420
+Serving Size: 15.3oz
+Total Fat: 19g
+Saturated Fat: 2.5g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 600mg
+Total Carbohydrate: 42g
+Dietary Fiber: 14g
+Sugars: 10g
+Protein: 24g
+station: <strong>@From The Field</strong>
+====made-to-order grill options====
+====black bean and quinoa burger patty====
+Calories: 130
+Serving Size: 2.5oz
+Saturated Fat: 0.5gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 350mgmg
+Total Carbohydrate: 16gg
+Dietary Fiber: 9gg
+Sugars: less than 1gg
+Protein: 5gg
+Total Fat: 6gg
+====Impossible burger patty====
+Calories: 180
+Serving Size: 3.0oz
+Saturated Fat: 6gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 290mgmg
+Total Carbohydrate: 7gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 14gg
+Total Fat: 11gg
+====grilled cheese====
+Calories: 390
+Serving Size: 4.1oz
+Saturated Fat: 11gg
+Trans Fat: 0.5gg
+Cholesterol: 60mgmg
+Sodium: 1100mgmg
+Total Carbohydrate: 34gg
+Dietary Fiber: 0gg
+Sugars: 3gg
+Protein: 14gg
+Total Fat: 21gg
+Tags: Vegetarian
+kcal: 
+Calories: 700
+Serving Size: 9.6oz
+Total Fat: 37g
+Saturated Fat: 18g
+Trans Fat: 0.5g
+Cholesterol: 60mg
+Sodium: 1740mg
+Total Carbohydrate: 56g
+Dietary Fiber: 9g
+Sugars: 4g
+Protein: 33g
+station: <strong>@From The Field</strong>
+====creamy tomato basil soup====
+Tags: Vegetarian, Made without Gluten-Containing Ingredients
+kcal: 90
+Calories: 90
+Serving Size: 8.0oz
+Total Fat: 4g
+Saturated Fat: 2.5g
+Trans Fat: 0g
+Cholesterol: 10mg
+Sodium: 280mg
+Total Carbohydrate: 13g
+Dietary Fiber: 2g
+Sugars: 5g
+Protein: 2g
+station: <strong>@Soup From The Field</strong>
+====roasted root vegetable soup====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 45
+Calories: 45
+Serving Size: 8.1oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 450mg
+Total Carbohydrate: 10g
+Dietary Fiber: 3g
+Sugars: 6g
+Protein: 1g
+station: <strong>@Soup From The Field</strong>
+====lettuce====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 10
+Calories: 10
+Serving Size: 1.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 5mg
+Total Carbohydrate: 2g
+Dietary Fiber: < 1g
+Sugars: 1g
+Protein: < 1g
+station: <strong>@From The Field</strong>
+====spinach====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 50
+Calories: 50
+Serving Size: 8.0oz
+Total Fat: 1g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 180mg
+Total Carbohydrate: 8g
+Dietary Fiber: 5g
+Sugars: < 1g
+Protein: 6g
+station: <strong>@From The Field</strong>
+====black olives====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 35
+Calories: 35
+Serving Size: 1.0oz
+Total Fat: 3g
+Saturated Fat: 0.5g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 210mg
+Total Carbohydrate: 2g
+Dietary Fiber: 0g
+Sugars: 0g
+Protein: 0g
+station: <strong>@From The Field</strong>
+====onion====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 10
+Calories: 10
+Serving Size: 1.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 0mg
+Total Carbohydrate: 3g
+Dietary Fiber: 0g
+Sugars: 1g
+Protein: 0g
+station: <strong>@From The Field</strong>
+====carrots====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 10
+Calories: 10
+Serving Size: 1.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 20mg
+Total Carbohydrate: 3g
+Dietary Fiber: < 1g
+Sugars: 1g
+Protein: 0g
+station: <strong>@From The Field</strong>
+====cucumbers====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 0
+Calories: 0
+Serving Size: 1.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 0mg
+Total Carbohydrate: < 1g
+Dietary Fiber: 0g
+Sugars: 0g
+Protein: 0g
+station: <strong>@From The Field</strong>
+====bell pepper====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 5
+Calories: 5
+Serving Size: 1.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 0mg
+Total Carbohydrate: 1g
+Dietary Fiber: 0g
+Sugars: < 1g
+Protein: 0g
+station: <strong>@From The Field</strong>
+====tomato====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 5
+Calories: 5
+Serving Size: 1.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 0mg
+Total Carbohydrate: 1g
+Dietary Fiber: 0g
+Sugars: < 1g
+Protein: 0g
+station: <strong>@From The Field</strong>
+====raspberry viniagrette====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 30
+Calories: 30
+Serving Size: 1.0oz
+Total Fat: 0g
+Saturated Fat: 0g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 270mg
+Total Carbohydrate: 6g
+Dietary Fiber: 0g
+Sugars: 6g
+Protein: 0g
+station: <strong>@From The Field</strong>
+====buttermilk ranch dressing====
+Tags: Vegetarian, Made without Gluten-Containing Ingredients
+kcal: 50
+Calories: 50
+Serving Size: 1.0oz
+Total Fat: 4.5g
+Saturated Fat: 1.5g
+Trans Fat: 0g
+Cholesterol: 10mg
+Sodium: 180mg
+Total Carbohydrate: 2g
+Dietary Fiber: 0g
+Sugars: < 1g
+Protein: < 1g
+station: <strong>@From The Field</strong>
+====Italian vinaigrette====
+kcal: 180
+Calories: 180
+Serving Size: 1.0oz
+Total Fat: 20g
+Saturated Fat: 3g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 180mg
+Total Carbohydrate: 0g
+Dietary Fiber: 0g
+Sugars: 0g
+Protein: 0g
+station: <strong>@From The Field</strong>
+====Parmesan Caesar dressing====
+Tags: Vegetarian, Made without Gluten-Containing Ingredients
+kcal: 160
+Calories: 160
+Serving Size: 1.0oz
+Total Fat: 16g
+Saturated Fat: 2g
+Trans Fat: 0g
+Cholesterol: < 5mg
+Sodium: 160mg
+Total Carbohydrate: 2g
+Dietary Fiber: 0g
+Sugars: < 1g
+Protein: 1g
+station: <strong>@From The Field</strong>
+====Cajun-style grilled whitefish====
+====stewed okra and tomato====
+Calories: 40
+Serving Size: 4.6oz
+Saturated Fat: 1gg
+Trans Fat: 0gg
+Cholesterol: less than 5mgmg
+Sodium: 75mgmg
+Total Carbohydrate: 6gg
+Dietary Fiber: 3gg
+Sugars: 3gg
+Protein: 2gg
+Total Fat: 1.5gg
+====Cajun red beans and brown rice====
+Calories: 180
+Serving Size: 6.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 15mgmg
+Total Carbohydrate: 36gg
+Dietary Fiber: 6gg
+Sugars: 2gg
+Protein: 6gg
+Total Fat: 2gg
+Tags: Made without Gluten-Containing Ingredients, In Balance, Seafood Watch
+kcal: 390
+Calories: 390
+Serving Size: 14.8oz
+Total Fat: 13g
+Saturated Fat: 2.5g
+Trans Fat: 0g
+Cholesterol: 60mg
+Sodium: 230mg
+Total Carbohydrate: 44g
+Dietary Fiber: 10g
+Sugars: 7g
+Protein: 26g
+station: <strong>@From The Home</strong>
+====five spice beef stir fry====
+kcal: 370
+Calories: 370
+Serving Size: 10.0oz
+Total Fat: 18g
+Saturated Fat: 3.5g
+Trans Fat: 0g
+Cholesterol: 65mg
+Sodium: 480mg
+Total Carbohydrate: 29g
+Dietary Fiber: 4g
+Sugars: 15g
+Protein: 25g
+station: <strong>@From The East</strong>
+====five spice tempeh and vegetable stir fry====
+Tags: Vegan, Made without Gluten-Containing Ingredients, Farm to Fork
+kcal: 290
+Calories: 290
+Serving Size: 7.6oz
+Total Fat: 13g
+Saturated Fat: 2.5g
+Trans Fat: 0g
+Cholesterol: 0mg
+Sodium: 260mg
+Total Carbohydrate: 31g
+Dietary Fiber: 2g
+Sugars: 18g
+Protein: 19g
+station: <strong>@From The East</strong>
+====breaded eggplant parmesan with marinara sauce====
+====broccoli with roasted garlic====
+Calories: 60
+Serving Size: 4.9oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 125mgmg
+Total Carbohydrate: 11gg
+Dietary Fiber: 4gg
+Sugars: 2gg
+Protein: 4gg
+Total Fat: 1.5gg
+====pasta primavera marinara====
+Calories: 200
+Serving Size: 7.1oz
+Saturated Fat: 0.5gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 400mgmg
+Total Carbohydrate: 30gg
+Dietary Fiber: 3gg
+Sugars: 4gg
+Protein: 6gg
+Total Fat: 7gg
+Tags: Vegetarian
+kcal: 680
+Calories: 680
+Serving Size: 19.2oz
+Total Fat: 30g
+Saturated Fat: 5g
+Trans Fat: 0g
+Cholesterol: 55mg
+Sodium: 1200mg
+Total Carbohydrate: 84g
+Dietary Fiber: 11g
+Sugars: 12g
+Protein: 22g
+station: <strong>@From The Field</strong>
+====oatmeal====
+Tags: Vegan, Farm to Fork
+kcal: 130
+130
+9.9
+2
+0
+0
+0
+10
+23
+3
+0
+4
+station: <strong>@soup</strong>
+====creamy grits====
+Tags: Vegetarian, Made without Gluten-Containing Ingredients, Farm to Fork
+kcal: 390
+390
+8.0
+24
+14
+1
+65
+420
+39
+2
+5
+7
+station: <strong>@soup</strong>
+====cage-free scrambled eggs====
+====turkey breakfast sausage links====
+Calories: 70
+Serving Size: 2.0oz
+Saturated Fat: 1.5gg
+Trans Fat: 0gg
+Cholesterol: 30mgmg
+Sodium: 280mgmg
+Total Carbohydrate: 0gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 7gg
+Total Fat: 5gg
+====breakfast potatoes yukon====
+Calories: 210
+Serving Size: 3.7oz
+Saturated Fat: 1gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 270mgmg
+Total Carbohydrate: 22gg
+Dietary Fiber: 3gg
+Sugars: 2gg
+Protein: 2gg
+Total Fat: 13gg
+Tags: Made without Gluten-Containing Ingredients, Farm to Fork
+kcal: 460
+460
+10.2
+31
+7
+0
+495
+720
+23
+3
+2
+25
+station: <strong>@From The Home</strong>
+====vanilla French toast====
+Tags: Vegetarian, Farm to Fork, Humane
+kcal: 270
+270
+4.8
+6
+2
+0
+65
+450
+44
+2
+7
+11
+station: <strong>@From The Home</strong>
+====made-to-order omelette bar====
+Tags: Made without Gluten-Containing Ingredients, Farm to Fork, Humane
+kcal: 
+station: <strong>@From The Fire</strong>
+====tofu breakfast scramble====
+====apple cranberry quinoa====
+Calories: 210
+Serving Size: 5.6oz
+Saturated Fat: 0.5gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 5mgmg
+Total Carbohydrate: 35gg
+Dietary Fiber: 4gg
+Sugars: 8gg
+Protein: 6gg
+Total Fat: 6gg
+====Beyond breakfast sausage====
+Calories: 110
+Serving Size: 1.5oz
+Saturated Fat: 3gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 230mgmg
+Total Carbohydrate: 3gg
+Dietary Fiber: 1gg
+Sugars: 0gg
+Protein: 7gg
+Total Fat: 7gg
+Tags: Vegan, Made without Gluten-Containing Ingredients, Farm to Fork
+kcal: 370
+370
+9.3
+17
+4
+0
+0
+760
+40
+6
+9
+18
+station: <strong>@From The Field</strong>
+====Bran Flakes====
+Tags: Vegan
+kcal: 200
+200
+1.0
+1.5
+0
+0
+0
+330
+50
+11
+11
+6
+station: <strong>@breakfast</strong>
+====Cheerios====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 100
+100
+1.0
+2
+0
+0
+0
+135
+20
+3
+1
+3
+station: <strong>@breakfast</strong>
+====shredded wheat====
+Tags: Vegan
+kcal: 180
+180
+1.0
+1
+0
+0
+0
+0
+41
+6
+0
+6
+station: <strong>@breakfast</strong>
+====cereal Honey Nut Cheerios====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 100
+100
+1.0
+1.5
+0
+0
+0
+160
+22
+2
+9
+2
+station: <strong>@breakfast</strong>
+====Cinnamon Toast Crunch====
+Tags: Vegan
+kcal: 160
+160
+1.0
+4
+0
+0
+0
+230
+31
+3
+12
+2
+station: <strong>@breakfast</strong>
+====Corn Chex====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 110
+110
+1.0
+0.5
+0
+0
+0
+210
+25
+1
+3
+2
+station: <strong>@breakfast</strong>
+====Corn Pops====
+Tags: Vegan
+kcal: 110
+110
+1.0
+0
+0
+0
+0
+105
+27
+2
+9
+1
+station: <strong>@breakfast</strong>
+====Cornflakes====
+Tags: Vegan
+kcal: 110
+110
+1.0
+0
+0
+0
+0
+230
+27
+1
+3
+2
+station: <strong>@breakfast</strong>
+====apple jacks====
+Tags: Vegan
+kcal: 100
+100
+1.0
+1
+0.5
+0
+0
+130
+24
+3
+12
+1
+station: <strong>@breakfast</strong>
+====fruit loops====
+Tags: Vegan
+kcal: 100
+100
+1.0
+1
+0
+0
+0
+130
+24
+3
+12
+1
+station: <strong>@breakfast</strong>
+====golden grahams====
+Tags: Vegan
+kcal: 140
+140
+1.0
+1
+0
+0
+0
+290
+32
+2
+13
+2
+station: <strong>@breakfast</strong>
+====buttermilk waffle====
+Tags: Vegetarian
+kcal: 300
+300
+6.0
+3.5
+0.5
+0
+0
+930
+60
+1
+6
+6
+station: <strong>@breakfast</strong>
+====lipton unsweetened iced tea====
+kcal: 0
+station: <strong>@beverages</strong>
+====water====
+kcal: 0
+station: <strong>@beverages</strong>
+====carbonated water====
+kcal: 0
+station: <strong>@beverages</strong>
+====dr pepper====
+kcal: 150
+150
+12.0
+0
+0
+0
+0
+35
+38
+0
+0
+0
+station: <strong>@beverages</strong>
+====gatorade fruit punch====
+kcal: 90
+90
+12.0
+0
+0
+0
+0
+160
+22
+0
+21
+0
+station: <strong>@beverages</strong>
+====sweetened iced tea====
+kcal: 110
+110
+12.0
+0
+0
+0
+0
+45
+29
+0
+29
+0
+station: <strong>@beverages</strong>
+====root beer====
+kcal: 150
+150
+12.0
+0
+0
+0
+0
+45
+39
+0
+39
+0
+station: <strong>@beverages</strong>
+====gatorade orange====
+kcal: 90
+90
+12.0
+0
+0
+0
+0
+180
+24
+0
+23
+0
+station: <strong>@beverages</strong>
+====pepsi====
+kcal: 150
+150
+12.0
+0
+0
+0
+0
+30
+41
+0
+41
+0
+station: <strong>@beverages</strong>
+====sierra mist====
+kcal: 150
+150
+12.0
+0
+0
+0
+0
+35
+40
+0
+40
+0
+station: <strong>@beverages</strong>
+====tropicana lemonade pink====
+kcal: 150
+150
+12.0
+0
+0
+0
+0
+150
+40
+0
+40
+0
+station: <strong>@beverages</strong>
+====Schweppes ginger ale====
+kcal: 120
+120
+12.0
+0
+0
+0
+0
+25
+32
+0
+33
+0
+station: <strong>@beverages</strong>
+====diet mountain dew====
+kcal: 0
+station: <strong>@beverages</strong>
+====diet pepsi====
+kcal: 0
+station: <strong>@beverages</strong>
+====brisk raspberry iced tea====
+kcal: 70
+70
+12.0
+0
+0
+0
+0
+50
+18
+0
+18
+0
+station: <strong>@beverages</strong>
+====orange juice====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 190
+190
+12.0
+0.5
+0
+0
+0
+15
+44
+1
+35
+3
+station: <strong>@beverages</strong>
+====apple juice====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 170
+170
+12.0
+0
+0
+0
+0
+15
+42
+< 1
+36
+0
+station: <strong>@beverages</strong>
+====cranberry juice====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 220
+220
+12.0
+0
+0
+0
+0
+10
+54
+0
+47
+0
+station: <strong>@beverages</strong>
+====milk====
+Tags: Vegetarian, Made without Gluten-Containing Ingredients, Farm to Fork
+kcal: 240
+240
+12.0
+13
+7
+0
+40
+170
+19
+0
+20
+13
+station: <strong>@beverages</strong>
+====chocolate milk====
+Tags: Vegetarian, Made without Gluten-Containing Ingredients, Farm to Fork
+kcal: 260
+260
+12.0
+4
+2.5
+0
+15
+280
+42
+2
+42
+12
+station: <strong>@beverages</strong>
+====coffee====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 0
+0
+8.0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+station: <strong>@beverages</strong>
+====decaf coffee====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 0
+0
+8.0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+station: <strong>@beverages</strong>
+====coconut milk====
+Tags: Vegan
+kcal: 100
+100
+2.0
+11
+9
+0
+0
+5
+1
+0
+0
+1
+station: <strong>@beverages</strong>
+====taco bar mains====
+====crumbled chorizo sausage and potato====
+Calories: 220
+Serving Size: 4.0oz
+Saturated Fat: 4gg
+Trans Fat: 0gg
+Cholesterol: 40mgmg
+Sodium: 250mgmg
+Total Carbohydrate: 14gg
+Dietary Fiber: 1gg
+Sugars: 1gg
+Protein: 13gg
+Total Fat: 13gg
+====roasted cauliflower and chickpea ====
+Calories: 110
+Serving Size: 3.4oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 440mgmg
+Total Carbohydrate: 17gg
+Dietary Fiber: 5gg
+Sugars: 3gg
+Protein: 6gg
+Total Fat: 3gg
+Tags: Made without Gluten-Containing Ingredients, Farm to Fork
+kcal: 
+340
+7.4
+16
+4
+0
+40
+700
+31
+6
+4
+18
+station: <strong>@From The Cazuela</strong>
+====taco bar sides====
+====seasoned black beans ====
+Calories: 150
+Serving Size: 3.5oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 180mgmg
+Total Carbohydrate: 27gg
+Dietary Fiber: 7gg
+Sugars: less than 1gg
+Protein: 9gg
+Total Fat: 0.5gg
+====cilantro lime brown rice====
+Calories: 150
+Serving Size: 4.8oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 5mgmg
+Total Carbohydrate: 32gg
+Dietary Fiber: 2gg
+Sugars: 0gg
+Protein: 3gg
+Total Fat: 1.5gg
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 
+300
+8.4
+2
+0
+0
+0
+190
+59
+8
+1
+13
+station: <strong>@From The Cazuela</strong>
+====taco bar toppings====
+====avocado crema====
+Calories: 35
+Serving Size: 1.0oz
+Saturated Fat: 1gg
+Trans Fat: 0gg
+Cholesterol: less than 5mgmg
+Sodium: 10mgmg
+Total Carbohydrate: 2gg
+Dietary Fiber: less than 1gg
+Sugars: less than 1gg
+Protein: less than 1gg
+Total Fat: 3gg
+====flour tortillas====
+Calories: 190
+Serving Size: 2.0oz
+Saturated Fat: 2gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 360mgmg
+Total Carbohydrate: 30gg
+Dietary Fiber: 2gg
+Sugars: 0gg
+Protein: 4gg
+Total Fat: 5gg
+====corn tortilla====
+Calories: 120
+Serving Size: 2.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 25mgmg
+Total Carbohydrate: 25gg
+Dietary Fiber: 4gg
+Sugars: less than 1gg
+Protein: 3gg
+Total Fat: 1.5gg
+====pico de gallo====
+Calories: 5
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 45mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: less than 1gg
+Protein: 0gg
+Total Fat: 0gg
+====salsa verde ====
+Calories: 15
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 30mgmg
+Total Carbohydrate: 2gg
+Dietary Fiber: less than 1gg
+Sugars: 1gg
+Protein: 0gg
+Total Fat: 0.5gg
+====cabbage and cilantro slaw====
+Calories: 15
+Serving Size: 2.3oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 140mgmg
+Total Carbohydrate: 4gg
+Dietary Fiber: 1gg
+Sugars: 2gg
+Protein: less than 1gg
+Total Fat: 0gg
+====salsa rojo ====
+Calories: 5
+Serving Size: 1.1oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 70mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: less than 1gg
+Protein: 0gg
+Total Fat: 0gg
+====lime crema====
+Calories: 90
+Serving Size: 1.9oz
+Saturated Fat: 4.5gg
+Trans Fat: 0.5gg
+Cholesterol: 25mgmg
+Sodium: 125mgmg
+Total Carbohydrate: 3gg
+Dietary Fiber: 0gg
+Sugars: 2gg
+Protein: 1gg
+Total Fat: 8gg
+Tags: Vegetarian
+kcal: 
+460
+12.4
+19
+8
+1
+30
+780
+66
+9
+7
+11
+station: <strong>@From The Cazuela</strong>
+====pepperoni pizza====
+Tags: Farm to Fork
+kcal: 170
+170
+2.1
+9
+4.5
+0
+20
+350
+14
+< 1
+1
+8
+station: <strong>@From The Hearth</strong>
+====cheese pizza====
+Tags: Vegetarian, Farm to Fork
+kcal: 140
+140
+2.0
+4.5
+2.5
+0
+15
+240
+17
+< 1
+1
+6
+station: <strong>@From The Hearth</strong>
+====vegetable pizza====
+Tags: Vegetarian, Farm to Fork
+kcal: 170
+170
+3.9
+6
+3
+0
+15
+290
+23
+1
+2
+8
+station: <strong>@From The Hearth</strong>
+====onion and fresh rosemary pizza====
+Tags: Vegetarian
+kcal: 130
+130
+2.1
+4.5
+2
+0
+10
+240
+15
+< 1
+1
+6
+station: <strong>@From The Hearth</strong>
+====hearty vegetable beef soup====
+Tags: Made without Gluten-Containing Ingredients
+kcal: 200
+200
+8.5
+8
+1.5
+0
+40
+530
+14
+3
+6
+19
+station: <strong>@soup</strong>
+====sausage and chicken soup====
+Tags: Made without Gluten-Containing Ingredients
+kcal: 170
+170
+8.3
+10
+3
+0
+50
+500
+7
+3
+3
+12
+station: <strong>@soup</strong>
+====pork burgundy====
+====sautéed red cabbage====
+Calories: 50
+Serving Size: 3.1oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 240mgmg
+Total Carbohydrate: 7gg
+Dietary Fiber: 2gg
+Sugars: 3gg
+Protein: 1gg
+Total Fat: 2gg
+====white beans and kale====
+Calories: 90
+Serving Size: 6.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 170mgmg
+Total Carbohydrate: 15gg
+Dietary Fiber: 6gg
+Sugars: 3gg
+Protein: 6gg
+Total Fat: 1gg
+Tags: Made without Gluten-Containing Ingredients
+kcal: 500
+500
+19.5
+22
+6
+0
+95
+1010
+29
+9
+9
+38
+station: <strong>@From The Home</strong>
+====cage-free eggs any style, made-to-order====
+Tags: Vegetarian, Made without Gluten-Containing Ingredients, Humane
+kcal: 
+station: <strong>@From The Fire</strong>
+====grill options====
+====turkey burger====
+Calories: 260
+Serving Size: 4.0oz
+Saturated Fat: 4.5gg
+Trans Fat: 0gg
+Cholesterol: 95mgmg
+Sodium: 350mgmg
+Total Carbohydrate: 3gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 20gg
+Total Fat: 18gg
+====grilled chicken====
+Calories: 160
+Serving Size: 3.4oz
+Saturated Fat: 1.5gg
+Trans Fat: 0gg
+Cholesterol: 95mgmg
+Sodium: 230mgmg
+Total Carbohydrate: 0gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 26gg
+Total Fat: 6gg
+====beef burger====
+Calories: 310
+Serving Size: 4.0oz
+Saturated Fat: 8gg
+Trans Fat: 1.5gg
+Cholesterol: 100mgmg
+Sodium: 85mgmg
+Total Carbohydrate: 0gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 29gg
+Total Fat: 20gg
+====all-beef hotdog ====
+Calories: 180
+Serving Size: 2.0oz
+Saturated Fat: 6gg
+Trans Fat: 2gg
+Cholesterol: 35mgmg
+Sodium: 490mgmg
+Total Carbohydrate: 2gg
+Dietary Fiber: 0gg
+Sugars: less than 1gg
+Protein: 7gg
+Total Fat: 16gg
+====cheddar cheese====
+Calories: 110
+Serving Size: 1.0oz
+Saturated Fat: 5gg
+Trans Fat: 0gg
+Cholesterol: 30mgmg
+Sodium: 190mgmg
+Total Carbohydrate: less than 1gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 6gg
+Total Fat: 9gg
+====lettuce====
+Calories: 0
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: less than 1gg
+Dietary Fiber: less than 1gg
+Sugars: 0gg
+Protein: 0gg
+Total Fat: 0gg
+====tomatoes====
+Calories: 5
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: less than 1gg
+Protein: 0gg
+Total Fat: 0gg
+====onion====
+Calories: 0
+Serving Size: 0.2oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: less than 1gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 0gg
+Total Fat: 0gg
+====pickle====
+Calories: 0
+Serving Size: 0.1oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 20mgmg
+Total Carbohydrate: 0gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 0gg
+Total Fat: 0gg
+====wheat hamburger bun====
+Calories: 160
+Serving Size: 2.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 280mgmg
+Total Carbohydrate: 28gg
+Dietary Fiber: 1gg
+Sugars: 4gg
+Protein: 6gg
+Total Fat: 2gg
+====wheat hot dog bun====
+Calories: 180
+Serving Size: 2.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 320mgmg
+Total Carbohydrate: 32gg
+Dietary Fiber: 4gg
+Sugars: 4gg
+Protein: 7gg
+Total Fat: 3gg
+====hand-cut French fries====
+Calories: 110
+Serving Size: 4.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 135mgmg
+Total Carbohydrate: 24gg
+Dietary Fiber: 2gg
+Sugars: 2gg
+Protein: 2gg
+Total Fat: 0gg
+====Swiss cheese====
+Calories: 110
+Serving Size: 1.0oz
+Saturated Fat: 5gg
+Trans Fat: 0.5gg
+Cholesterol: 25mgmg
+Sodium: 55mgmg
+Total Carbohydrate: 0gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 8gg
+Total Fat: 9gg
+====pepper jack cheese====
+Calories: 110
+Serving Size: 1.0oz
+Saturated Fat: 5gg
+Trans Fat: 0gg
+Cholesterol: 25mgmg
+Sodium: 170mgmg
+Total Carbohydrate: 0gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 7gg
+Total Fat: 9gg
+====American cheese====
+Calories: 100
+Serving Size: 1.0oz
+Saturated Fat: 5gg
+Trans Fat: 0.5gg
+Cholesterol: 30mgmg
+Sodium: 470mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: less than 1gg
+Protein: 5gg
+Total Fat: 9gg
+Tags: Farm to Fork
+kcal: 
+1790
+27.8
+101
+42
+5
+430
+2790
+95
+7
+13
+124
+station: <strong>@From The Fire</strong>
+====barbecue bacon cheeseburger====
+kcal: 630
+630
+9.1
+36
+14
+2
+135
+840
+33
+3
+9
+44
+station: <strong>@From The Fire</strong>
+====kung pao tamari chicken stir fry====
+Tags: Made without Gluten-Containing Ingredients
+kcal: 230
+230
+8.4
+7
+1.5
+0
+85
+1060
+17
+2
+9
+27
+station: <strong>@From The East</strong>
+====kung pao tamari tofu stir fry====
+Tags: Vegan, Made without Gluten-Containing Ingredients, Farm to Fork
+kcal: 230
+230
+8.4
+12
+1.5
+0
+0
+930
+19
+4
+9
+17
+station: <strong>@From The East</strong>
+====lo mein egg noodles====
+Tags: Vegetarian
+kcal: 190
+190
+4.0
+3
+0.5
+0
+40
+10
+34
+2
+< 1
+7
+station: <strong>@From The East</strong>
+====brown rice====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 130
+130
+4.0
+1
+0
+0
+0
+0
+27
+1
+0
+3
+station: <strong>@From The East</strong>
+====stir fry bowl====
+====ginger-lime chicken====
+Calories: 170
+Serving Size: 3.0oz
+Saturated Fat: 2gg
+Trans Fat: 0gg
+Cholesterol: 100mgmg
+Sodium: 230mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 19gg
+Total Fat: 9gg
+====bell pepper====
+Calories: 5
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: less than 1gg
+Protein: 0gg
+Total Fat: 0gg
+====onion====
+Calories: 5
+Serving Size: 0.5oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: less than 1gg
+Protein: 0gg
+Total Fat: 0gg
+====bamboo shoot====
+Calories: 5
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: less than 1gg
+Dietary Fiber: 0gg
+Sugars: less than 1gg
+Protein: 0gg
+Total Fat: 0gg
+====baby corn====
+Calories: 5
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 70mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 0gg
+Total Fat: 0gg
+====bok choy====
+Calories: 0
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 20mgmg
+Total Carbohydrate: less than 1gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 0gg
+Total Fat: 0gg
+====broccoli====
+Calories: 10
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 10mgmg
+Total Carbohydrate: 2gg
+Dietary Fiber: less than 1gg
+Sugars: 0gg
+Protein: less than 1gg
+Total Fat: 0gg
+====mushroom====
+Calories: 5
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: 1gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: less than 1gg
+Total Fat: 0gg
+====szechuan-style hot chili oil====
+Calories: 210
+Serving Size: 1.0oz
+Saturated Fat: 1.5gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 80mgmg
+Total Carbohydrate: 2gg
+Dietary Fiber: less than 1gg
+Sugars: 0gg
+Protein: 0gg
+Total Fat: 23gg
+====brown rice ====
+Calories: 130
+Serving Size: 4.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: 27gg
+Dietary Fiber: 1gg
+Sugars: 0gg
+Protein: 3gg
+Total Fat: 1gg
+====rice noodle====
+Calories: 90
+Serving Size: 4.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 5mgmg
+Total Carbohydrate: 21gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 0gg
+Total Fat: 0.5gg
+====mung beans ====
+Calories: 20
+Serving Size: 2.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 0mgmg
+Total Carbohydrate: 4gg
+Dietary Fiber: less than 1gg
+Sugars: 0gg
+Protein: 1gg
+Total Fat: 0gg
+====sweet chili sauce====
+Calories: 80
+Serving Size: 2.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 370mgmg
+Total Carbohydrate: 16gg
+Dietary Fiber: 0gg
+Sugars: 15gg
+Protein: 0gg
+Total Fat: 0gg
+====spicy orange-ginger sauce====
+Calories: 50
+Serving Size: 2.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 270mgmg
+Total Carbohydrate: 12gg
+Dietary Fiber: 0gg
+Sugars: 8gg
+Protein: 0gg
+Total Fat: 0gg
+====pickled daikon ====
+Calories: 10
+Serving Size: 1.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 380mgmg
+Total Carbohydrate: 3gg
+Dietary Fiber: 0gg
+Sugars: 2gg
+Protein: 0gg
+Total Fat: 0gg
+Tags: Made without Gluten-Containing Ingredients, Halal
+kcal: 
+800
+25.5
+34
+4
+0
+100
+1450
+95
+7
+30
+27
+station: <strong>@SimplyOasis</strong>
+====made without the top-9 allergens plus gluten-containing ingredients====
+kcal: 
+station: <strong>@SimplyOasis</strong>
+====smoky tempeh with peppers and onions====
+====braised cabbage and sweet potatoes ====
+Calories: 100
+Serving Size: 5.6oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 150mgmg
+Total Carbohydrate: 16gg
+Dietary Fiber: 4gg
+Sugars: 6gg
+Protein: 2gg
+Total Fat: 3gg
+====honey glazed Brussels sprouts====
+Calories: 150
+Serving Size: 5.4oz
+Saturated Fat: 1.5gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 440mgmg
+Total Carbohydrate: 10gg
+Dietary Fiber: 4gg
+Sugars: 2gg
+Protein: 4gg
+Total Fat: 11gg
+Tags: Vegan, Made without Gluten-Containing Ingredients, In Balance, Farm to Fork
+kcal: 420
+420
+15.3
+19
+2.5
+0
+0
+600
+42
+14
+10
+24
+station: <strong>@From The Field</strong>
+====made-to-order grill options====
+====black bean and quinoa burger patty====
+Calories: 130
+Serving Size: 2.5oz
+Saturated Fat: 0.5gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 350mgmg
+Total Carbohydrate: 16gg
+Dietary Fiber: 9gg
+Sugars: less than 1gg
+Protein: 5gg
+Total Fat: 6gg
+====Impossible burger patty====
+Calories: 180
+Serving Size: 3.0oz
+Saturated Fat: 6gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 290mgmg
+Total Carbohydrate: 7gg
+Dietary Fiber: 0gg
+Sugars: 0gg
+Protein: 14gg
+Total Fat: 11gg
+====grilled cheese====
+Calories: 390
+Serving Size: 4.1oz
+Saturated Fat: 11gg
+Trans Fat: 0.5gg
+Cholesterol: 60mgmg
+Sodium: 1100mgmg
+Total Carbohydrate: 34gg
+Dietary Fiber: 0gg
+Sugars: 3gg
+Protein: 14gg
+Total Fat: 21gg
+Tags: Vegetarian
+kcal: 
+700
+9.6
+37
+18
+0.5
+60
+1740
+56
+9
+4
+33
+station: <strong>@From The Field</strong>
+====creamy tomato basil soup====
+Tags: Vegetarian, Made without Gluten-Containing Ingredients
+kcal: 90
+90
+8.0
+4
+2.5
+0
+10
+280
+13
+2
+5
+2
+station: <strong>@Soup From The Field</strong>
+====roasted root vegetable soup====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 45
+45
+8.1
+0
+0
+0
+0
+450
+10
+3
+6
+1
+station: <strong>@Soup From The Field</strong>
+====lettuce====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 10
+10
+1.0
+0
+0
+0
+0
+5
+2
+< 1
+1
+< 1
+station: <strong>@From The Field</strong>
+====spinach====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 50
+50
+8.0
+1
+0
+0
+0
+180
+8
+5
+< 1
+6
+station: <strong>@From The Field</strong>
+====black olives====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 35
+35
+1.0
+3
+0.5
+0
+0
+210
+2
+0
+0
+0
+station: <strong>@From The Field</strong>
+====onion====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 10
+10
+1.0
+0
+0
+0
+0
+0
+3
+0
+1
+0
+station: <strong>@From The Field</strong>
+====carrots====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 10
+10
+1.0
+0
+0
+0
+0
+20
+3
+< 1
+1
+0
+station: <strong>@From The Field</strong>
+====cucumbers====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 0
+0
+1.0
+0
+0
+0
+0
+0
+< 1
+0
+0
+0
+station: <strong>@From The Field</strong>
+====bell pepper====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 5
+5
+1.0
+0
+0
+0
+0
+0
+1
+0
+< 1
+0
+station: <strong>@From The Field</strong>
+====tomato====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 5
+5
+1.0
+0
+0
+0
+0
+0
+1
+0
+< 1
+0
+station: <strong>@From The Field</strong>
+====raspberry viniagrette====
+Tags: Vegan, Made without Gluten-Containing Ingredients
+kcal: 30
+30
+1.0
+0
+0
+0
+0
+270
+6
+0
+6
+0
+station: <strong>@From The Field</strong>
+====buttermilk ranch dressing====
+Tags: Vegetarian, Made without Gluten-Containing Ingredients
+kcal: 50
+50
+1.0
+4.5
+1.5
+0
+10
+180
+2
+0
+< 1
+< 1
+station: <strong>@From The Field</strong>
+====Italian vinaigrette====
+kcal: 180
+180
+1.0
+20
+3
+0
+0
+180
+0
+0
+0
+0
+station: <strong>@From The Field</strong>
+====Parmesan Caesar dressing====
+Tags: Vegetarian, Made without Gluten-Containing Ingredients
+kcal: 160
+160
+1.0
+16
+2
+0
+< 5
+160
+2
+0
+< 1
+1
+station: <strong>@From The Field</strong>
+====Cajun-style grilled whitefish====
+====stewed okra and tomato====
+Calories: 40
+Serving Size: 4.6oz
+Saturated Fat: 1gg
+Trans Fat: 0gg
+Cholesterol: less than 5mgmg
+Sodium: 75mgmg
+Total Carbohydrate: 6gg
+Dietary Fiber: 3gg
+Sugars: 3gg
+Protein: 2gg
+Total Fat: 1.5gg
+====Cajun red beans and brown rice====
+Calories: 180
+Serving Size: 6.0oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 15mgmg
+Total Carbohydrate: 36gg
+Dietary Fiber: 6gg
+Sugars: 2gg
+Protein: 6gg
+Total Fat: 2gg
+Tags: Made without Gluten-Containing Ingredients, In Balance, Seafood Watch
+kcal: 390
+390
+14.8
+13
+2.5
+0
+60
+230
+44
+10
+7
+26
+station: <strong>@From The Home</strong>
+====five spice beef stir fry====
+kcal: 370
+370
+10.0
+18
+3.5
+0
+65
+480
+29
+4
+15
+25
+station: <strong>@From The East</strong>
+====five spice tempeh and vegetable stir fry====
+Tags: Vegan, Made without Gluten-Containing Ingredients, Farm to Fork
+kcal: 290
+290
+7.6
+13
+2.5
+0
+0
+260
+31
+2
+18
+19
+station: <strong>@From The East</strong>
+====breaded eggplant parmesan with marinara sauce====
+====broccoli with roasted garlic====
+Calories: 60
+Serving Size: 4.9oz
+Saturated Fat: 0gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 125mgmg
+Total Carbohydrate: 11gg
+Dietary Fiber: 4gg
+Sugars: 2gg
+Protein: 4gg
+Total Fat: 1.5gg
+====pasta primavera marinara====
+Calories: 200
+Serving Size: 7.1oz
+Saturated Fat: 0.5gg
+Trans Fat: 0gg
+Cholesterol: 0mgmg
+Sodium: 400mgmg
+Total Carbohydrate: 30gg
+Dietary Fiber: 3gg
+Sugars: 4gg
+Protein: 6gg
+Total Fat: 7gg
+Tags: Vegetarian
+kcal: 680
+680
+19.2
+30
+5
+0
+55
+1200
+84
+11
+12
+22
+station: <strong>@From The Field</strong>
