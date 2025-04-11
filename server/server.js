@@ -19,14 +19,14 @@ app.use(cors());
 // Get all entries
 app.get('/entries', async (req, res) => {
   try {
-    const result = await pool.query('SELECT * FROM food');
+    const result = await pool.query('SELECT * FROM fribley');
     res.json(result.rows);
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
 });
 
-const aa = "INSERT INTO food (name, kcal, serving_size, total_fat, sat_fat, trans_fat, cholesterol, sodium, carbs, fiber, sugars, protein, vegetarian, vegan, made_without_gluten_containing_ingredients, balance, halal, farm_to_fork, humane, offered_often) VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20) ";
+const aa = "INSERT INTO fribley (name, kcal, serving_size, total_fat, sat_fat, trans_fat, cholesterol, sodium, carbs, fiber, sugars, protein, vegetarian, vegan, made_without_gluten_containing_ingredients, balance, halal, farm_to_fork, humane, offered_often) VALUES ($1,$2,$3,$4,$5,$6,$7,$8,$9,$10,$11,$12,$13,$14,$15,$16,$17,$18,$19,$20) ";
 // Add an entry
 app.post('/entries', async (req, res) => {
   try {
